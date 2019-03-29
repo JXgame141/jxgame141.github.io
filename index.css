@@ -1,0 +1,17 @@
+body {
+	background-color:#000;
+	color: #FFF;
+}
+
+.menu {
+
+font-family: Roboto;
+font-size: 23px;
+text-shadow: 1px 1px 2px #81d6a6;
+text-align:justify;
+}
+
+span {text-transform: uppercase;}
+a {
+color: #800000
+}
